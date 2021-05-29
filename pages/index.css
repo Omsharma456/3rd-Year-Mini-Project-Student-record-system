@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana;
+    margin: 10px;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: gray;
+}
+h3{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.container {
+    font-size: 20px;
+}
+#loginbutton{
+    font-size: 20px;
+}
+table{
+    padding: 10px;
+    border:6px solid gray;
+    border-radius: 14px;
+}
+input {
+    font-size: 18px;
+    margin: 5px auto;
+    width: 300px;
+    height: 30px;
+}
+select {
+    width: 300px;
+    height: 30px;
+}
