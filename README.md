@@ -14,17 +14,17 @@ Web based technology is used in this project.
 ## Feature Hierarchy
 
 ### Admin Control  Structure
-Add Co-Admin / Moderator
-View Moderators
-Add College
-Add Student
-View College Students
-View Students Details
-Edit Students Details
-Delete Student
-Login/Logout
+1. Add Co-Admin / Moderator
+2. View Moderators
+3. Add College
+4. Add Student
+5. View College Students
+6. View Students Details
+7. Edit Students Details
+8. Delete Student
+9. Login/Logout
 
 ### Moderator Control Structure
-Login
-View all students Record added by admin
-Logout 
+1. Login
+2. View all students Record added by admin
+3. Logout 
