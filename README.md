@@ -88,7 +88,7 @@ This project is contributed with my friends Kanhaiya Bhatt and Badal Bhatt.
 
 * **Om Narayan Sharma** - *Initial work with Database* - [Github Profile](https://github.com/Omsharma456) - [Hyperskill Profile](https://hyperskill.org/profile/3784466)
 * **Kanhaiya Bhatt** - *Frontend Development* - [Github Profile](https://github.com/kb-s) - [Hyperskill Profile](https://hyperskill.org/profile/kb-s)
-* **Om Narayan Sharma** - *Testing and Helping* - [Github Profile](https://github.com/Badal1216)
+* **Badak Bhatt** - *Testing and Helping* - [Github Profile](https://github.com/Badal1216)
 
 ## License
 
