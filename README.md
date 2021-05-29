@@ -10,3 +10,21 @@ Web based technology is used in this project.
 3. JavaScript
 4. PHP
 5. MySQL as Database 
+
+## Feature Hierarchy
+
+### Admin Control  Structure
+Add Co-Admin / Moderator
+View Moderators
+Add College
+Add Student
+View College Students
+View Students Details
+Edit Students Details
+Delete Student
+Login/Logout
+
+### Moderator Control Structure
+Login
+View all students Record added by admin
+Logout 
