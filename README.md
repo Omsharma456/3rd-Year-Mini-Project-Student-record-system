@@ -93,7 +93,11 @@ This project is contributed with my friends Kanhaiya Bhatt and Badal Bhatt.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+## Future Prospects
+The proposed system is intended to make life easy. The main purpose of the project is to build
+a student database system to facilitate easy access of student’s records. 
+The Student Database System will allow the registrar of GLA University, Login to edit,
+update students details records. It also enhances efficient management of student’s information and process and print out student’s transcripts/ result slips.
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
